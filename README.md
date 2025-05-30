@@ -1,30 +1,4 @@
-Data Cleaning & Preprocessing
 
-Handling missing values
+This repository contains a comprehensive analysis of salary data across various job roles, industries, education levels, and geographical locations. The goal is to uncover trends, correlations, and insights that can inform career decisions, hiring strategies, and workforce planning.
 
-Converting categorical features
-
-Normalization and transformation
-
-Exploratory Data Analysis (EDA)
-
-Salary distribution by job title, experience, industry
-
-Correlation analysis
-
-Geospatial salary patterns
-
-Predictive Modeling (optional)
-
-Linear Regression / Random Forest
-
-Model evaluation using R², MAE, RMSE
-
-Data Visualization
-
-Salary heatmaps
-
-Box plots by industry and education level
-
-Time series trends (if applicable)
-
+Analyze salary data to identify key factors influencing compensation.
